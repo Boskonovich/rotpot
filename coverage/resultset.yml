@@ -1,0 +1,171 @@
+---
+RSpec:
+  :original_result:
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/controllers/application_controller.rb:
+    - 1
+    - 1
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/helpers/application_helper.rb:
+    - 1
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/controllers/movies_controller.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/models/movie.rb:
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+  :created_at: 2012-06-20 19:40:29.751668258 +02:00
+Cucumber Features:
+  :original_result:
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/controllers/application_controller.rb:
+    - 1
+    - 1
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/helpers/application_helper.rb:
+    - 1
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/controllers/movies_controller.rb:
+    - 1
+    - 
+    - 1
+    - 2
+    - 2
+    - 
+    - 
+    - 
+    - 1
+    - 30
+    - 30
+    - 
+    - 2
+    - 
+    - 2
+    - 
+    - 30
+    - 30
+    - 
+    - 30
+    - 2
+    - 2
+    - 
+    - 
+    - 28
+    - 7
+    - 7
+    - 7
+    - 
+    - 21
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/models/movie.rb:
+    - 1
+    - 1
+    - 30
+    - 
+    - 
+  :created_at: 2012-06-20 21:45:44.151025224 +02:00

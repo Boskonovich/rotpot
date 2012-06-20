@@ -12,7 +12,7 @@ end
 #   on the same page
 
 Then /I should see "(.*)" before "(.*)"/ do |e1, e2|
-  page.body.index(e1).should.be < (page.body.index(e2))
+  page.body.index(e1).should < (page.body.index(e2))
 end
 
 # Make it easier to express checking or unchecking several boxes at once
