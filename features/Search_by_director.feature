@@ -13,7 +13,7 @@ Background: movies in database
   | Alien        | R      |              |   1979-05-25 |
   | THX-1138     | R      | George Lucas |   1971-03-11 |
   And I am on the homepage
-  And I check the following ratings: PG, PG-13, G, R
+  And I check the following ratings: PG, PG-13, G, R, NC-17
   And I press "Refresh"
 
 Scenario: add director to existing movie

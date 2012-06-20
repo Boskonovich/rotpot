@@ -20,7 +20,7 @@ Background: movies have been added to database
   | Chicken Run             | G      | 21-Jun-2000  |
 
   And I am on the RottenPotatoes home page
-  And I check the following ratings: G, PG, PG-13, R
+  And I check the following ratings: G, PG, PG-13, R, NC-17
   And I press "Refresh"
 
 Scenario: sort movies alphabetically

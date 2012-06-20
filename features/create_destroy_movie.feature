@@ -5,11 +5,9 @@ Feature: add a new movie to the list
   I want to add a new movie to the database and delete duplicates
 
 Background: i am on the homepage
-  Given the following movies exist:
-  | title                   | rating | release_date |
-  | Alien                   | G      | 25-Nov-1992  |
-  | The Terminator          | R      | 26-Oct-1984  |
-  And I am on the RottenPotatoes home page
+  Given I am on the RottenPotatoes home page
+  And I check the following ratings: G, PG, PG-13, R, NC-17
+  And I press "Refresh"
 
 Scenario: add a new movie
   When I follow "Add new movie"
@@ -19,6 +17,9 @@ Scenario: add a new movie
   Then I should see "Alien"
 
 Scenario: add a new movie
-  When I follow "More about Alien"
+  Given I follow "Add new movie" 
+  And  I fill in "Title" with "South Park"
+  And  I press "Save Changes"
+  When I follow "More about South Park"
   And  I press "Delete"
-  Then the "Movie Title" field should not contain "Alien"
+  Then I should not see "South Park"
