@@ -129,29 +129,29 @@ Cucumber Features:
     - 
     - 
     - 1
-    - 43
-    - 43
+    - 45
+    - 45
     - 
     - 2
     - 
     - 2
     - 
-    - 43
-    - 43
+    - 45
+    - 45
     - 
-    - 43
+    - 45
     - 2
     - 2
     - 2
     - 
     - 
-    - 41
-    - 14
-    - 14
-    - 14
-    - 14
+    - 43
+    - 15
+    - 15
+    - 15
+    - 15
     - 
-    - 27
+    - 28
     - 
     - 
     - 1
@@ -195,7 +195,7 @@ Cucumber Features:
     /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/models/movie.rb:
     - 1
     - 1
-    - 43
+    - 45
     - 
     - 1
     - 2
@@ -206,4 +206,4 @@ Cucumber Features:
     - 
     - 
     - 
-  :created_at: 2012-06-22 01:11:02.506859664 +02:00
+  :created_at: 2012-06-22 01:25:23.573567887 +02:00

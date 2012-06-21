@@ -35,5 +35,6 @@ Then /I should see all of the movies/ do
 end
 
 Then /the director of "(.*)" should be "(.*)"/ do |movie, director|
+  visit path_to('the homepage')
   page.find('tr',:text => movie).has_content?(director).should == true
 end
