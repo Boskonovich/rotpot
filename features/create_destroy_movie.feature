@@ -22,4 +22,4 @@ Scenario: add a new movie
   And  I press "Save Changes"
   When I follow "More about South Park"
   And  I press "Delete"
-  Then I should not see "South Park"
+  Then I should not see "South Park" within the movies table

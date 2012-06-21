@@ -1,0 +1,7 @@
+%h2 Movies with same director
+
+%ul#movieslist
+  - @movies.each do |movie|
+    %li= movie.title
+
+= link_to 'Back to movie list', movies_path

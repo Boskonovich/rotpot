@@ -38,8 +38,10 @@ RSpec:
     - 0
     - 0
     - 0
+    - 0
     - 
     - 
+    - 0
     - 0
     - 0
     - 0
@@ -94,11 +96,13 @@ RSpec:
     - 1
     - 2
     - 2
+    - 
+    - 
     - 1
     - 
     - 
     - 
-  :created_at: 2012-06-22 00:06:24.421273251 +02:00
+  :created_at: 2012-06-22 01:11:19.693896494 +02:00
 Cucumber Features:
   :original_result:
     /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/controllers/application_controller.rb:
@@ -119,54 +123,56 @@ Cucumber Features:
     - 1
     - 
     - 1
-    - 3
-    - 3
+    - 4
+    - 4
     - 
     - 
     - 
     - 1
-    - 39
-    - 39
+    - 43
+    - 43
     - 
     - 2
     - 
     - 2
     - 
-    - 39
-    - 39
+    - 43
+    - 43
     - 
-    - 39
-    - 2
-    - 2
-    - 
-    - 
-    - 37
-    - 12
-    - 12
-    - 12
-    - 
-    - 25
-    - 
-    - 
-    - 1
-    - 
-    - 
-    - 
-    - 1
+    - 43
     - 2
     - 2
     - 2
     - 
     - 
+    - 41
+    - 14
+    - 14
+    - 14
+    - 14
+    - 
+    - 27
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 
+    - 
     - 1
     - 1
     - 
     - 
     - 1
-    - 0
-    - 0
-    - 0
-    - 0
+    - 1
+    - 1
+    - 1
+    - 1
     - 
     - 
     - 1
@@ -174,13 +180,30 @@ Cucumber Features:
     - 1
     - 1
     - 1
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 1
+    - 1
+    - 
     - 
     - 
     - 
     /home/andrea/Documenti/Programmazione/SaaS/hw4_rottenpotatoes/app/models/movie.rb:
     - 1
     - 1
-    - 39
+    - 43
+    - 
+    - 1
+    - 2
+    - 2
     - 
     - 
-  :created_at: 2012-06-21 17:45:39.347232666 +02:00
+    - 1
+    - 
+    - 
+    - 
+  :created_at: 2012-06-22 01:11:02.506859664 +02:00
