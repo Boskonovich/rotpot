@@ -15,6 +15,8 @@ module NavigationHelpers
 
     when /^the (RottenPotatoes )?home\s?page$/
       '/movies'
+    when /^the full home\s?page$/
+      '/movies?ratings[G]=1&ratings[NC-17]=1&ratings[PG]=1&ratings[PG-13]=1&ratings[R]=1&sort=title'
     when /^the edit page for "(.*)"$/
       id=Movie.find_by_title($1).id
       "/movies/#{id}/edit"
